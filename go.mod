@@ -1,4 +1,4 @@
-module zlog
+module github.com/ziar/zlog
 
 go 1.18
 
