@@ -1,4 +1,4 @@
-module github.com/zair/zlog
+module github.com/3zair/zlog
 
 go 1.16
 
